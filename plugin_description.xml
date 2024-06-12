@@ -1,0 +1,9 @@
+<library path="lib/libwaypoint_manager">
+  <class name="waypoint_manager/WaypointManagerPlugin"
+         type="waypoint_manager::WaypointManagerPlugin"
+         base_class_type="rviz::Panel">
+    <description>
+      A panel for manage waypoints.
+    </description>
+  </class>
+</library>
